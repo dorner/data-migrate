@@ -19,6 +19,8 @@ one-to-one to one-to-many... I found it a pain and dodgy to have to
 step up migrations one by one, run a ruby script of some sort, then
 resume migrations.  It tanks a lot of the automation of deploy.
 
+Haha, "tanks a lot!"
+
 If you don't use the one off scripts, you could do it as a regular
 migration.  It'd be much better to keep concerns separate. The benefit
 of having them separate has to do with your data model.
