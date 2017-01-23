@@ -8,6 +8,8 @@ migrations, except they should be reserved for data migrations. For
 instance, if you realize you need to titleize all your titles, this
 is the place to do it.
 
+Here's a readme change I made.
+
 Why should I use this?
 ----------------------
 
