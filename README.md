@@ -26,6 +26,8 @@ Rails 3 and Ruby 1.9
 
 Data Migrate is Rails 3 and Ruby 1.9 compatible.
 
+I made a readme change!
+
 Installation
 ------------
 Add the gem to your project
@@ -40,6 +42,8 @@ called 'data_migrations' will be created in your database. This
 is to mirror the way the standard 'db' rake tasks work. If you've
 installed previous to v1.1.0, you'll want to delete the
 'create\_data\_migrations_table' migration.
+
+What he said.
 
 Usage
 -----
