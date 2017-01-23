@@ -43,6 +43,8 @@ is to mirror the way the standard 'db' rake tasks work. If you've
 installed previous to v1.1.0, you'll want to delete the
 'create\_data\_migrations_table' migration.
 
+What he said.
+
 Usage
 -----
 
