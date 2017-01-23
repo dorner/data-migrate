@@ -26,6 +26,8 @@ Rails 3 and Ruby 1.9
 
 Data Migrate is Rails 3 and Ruby 1.9 compatible.
 
+I made a readme change!
+
 Installation
 ------------
 Add the gem to your project
